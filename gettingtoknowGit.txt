@@ -1,0 +1,7 @@
+Getting to know GIT.
+- git init  -> it allows us to initiate the git project
+- git add . -> "." represents all files or you can use <name> 
+- git commit -m "<message>" -> it create a new stage area with a message
+- git push -> git push allow us to move our project or source code from local machine into the cloud. 
+
+
